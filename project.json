@@ -50,6 +50,14 @@
         "testCaseId": "b2871662-7438-41b6-854f-f0d0240fd245",
         "testCaseType": "TestCase",
         "fileName": "TestCase.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "1e552534-851c-4014-a1a1-3ea55cba5592",
+        "dataVariationFilePath": ".variations\\Excel_Automation1_Worksheet.json",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCases\\TestCaseEmail.xaml"
       }
     ],
     "saveToCloud": false

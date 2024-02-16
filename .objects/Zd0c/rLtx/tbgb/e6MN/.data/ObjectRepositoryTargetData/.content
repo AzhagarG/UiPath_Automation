@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vaSdf8ylt0iPhROyOWER3w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/forms/d/e/1FAIpQLSekBcbmHc2aDylH0B9ivXB0wc6263r9gEgElk8SvfFAyIl5Hg/viewform" CvElementArea="507, 835, 459, 48" CvType="InputBox" DesignTimeRectangle="516, 844, 443, 36" DesignTimeScaleFactor="1.5" ElementType="InputBox" FriendlyName="'INPUT'" FullSelectorArgument="&lt;webctrl aria-labelledby='i5' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-labelledby='i5' tag='INPUT' type='text' class='whsOnd zHQkBf' aaname='' /&gt;" Guid="058a3268-b328-4689-8caf-31f2bec6ef19" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Excel_Automation' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="2de8658f9facf377b9294f7b43abeb13.png" xmlns="">0rvs9UpYyN0urOH2WNM8zYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

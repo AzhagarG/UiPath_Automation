@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Str_ProductName",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "zb8QcgJE-EuUBqPVOIbmVw",
+  "Reference": "8BASmu2-m0yfnvizEqfm4g/zb8QcgJE-EuUBqPVOIbmVw",
+  "ParentRef": "8BASmu2-m0yfnvizEqfm4g/tbgbeqjNDkGPCbpOKSuEeQ",
+  "Created": "2024-02-14T07:11:29.9382633Z",
+  "Updated": "2024-02-14T07:12:07.2239934Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

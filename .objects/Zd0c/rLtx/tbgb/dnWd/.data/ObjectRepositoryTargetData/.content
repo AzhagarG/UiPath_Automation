@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-KU9d_8WYkWuzc_S2TpwDQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://docs.google.com/forms/u/0/d/e/1FAIpQLSekBcbmHc2aDylH0B9ivXB0wc6263r9gEgElk8SvfFAyIl5Hg/formResponse" CvTextArea="526, 447, 237, 25" CvTextArgument="Submit another response" CvType="Text" DesignTimeRectangle="528, 446, 234, 25" DesignTimeScaleFactor="1.5" ElementType="Text" FriendlyName="'Submit another response'" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='A' type='' class='' aaname='Submit another response' check:innerText='Submit another response' /&gt;" Guid="25dcc768-43a5-4781-a900-c2686899cee3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Excel_Automation' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="274a94299d3f838d0799e45b44846bfa.png" xmlns="">0-iX-3d6N-ECjfFk6MmlXYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
